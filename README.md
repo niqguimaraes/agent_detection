@@ -71,6 +71,7 @@ AZURE_OPENAI_ENDPOINT=https://<seu-endpoint>.openai.azure.com/
 AZURE_OPENAI_API_VERSION=xxxx-xx-xx
 AZURE_OPENAI_DEPLOYMENT_NAME=<nome-do-deployment>
 ```
+[!NOTE] Existe um arquivo modelo em module-1/01-introducao-backend/env_model
 
 #### Inicie a API
 ```bash
