@@ -154,7 +154,7 @@ async def analisar_ameacas(
         response = client.chat.completions.create(
             messages = chat_prompt,
             temperature=0.7,
-            max_tokens=1500,
+            max_tokens=800,
             top_p=0.95,
             frequency_penalty=0,
             presence_penalty=0,
